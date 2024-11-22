@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"chatremedy-v2","appId":"1:1001006872923:ios:442307d738eb9c7e8d427e","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"chatremedy-v2","configurations":{"ios":"1:1001006872923:ios:442307d738eb9c7e8d427e"}}}}}}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001006872923",
+    "project_id": "chatremedy-v2",
+    "storage_bucket": "chatremedy-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001006872923:android:c92e4fda27ba28c68d427e",
+        "android_client_info": {
+          "package_name": "com.aliensofts.chatremedy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZOblJZpP-rf1-8BzRadu-Q7-x3ezeZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
